@@ -1,4 +1,4 @@
-# SIMSOD_SWE
+# SIMOD_SWE
 
 A model for assessing the impact of policy change in organ donation systems; case study: Sweden.
 
